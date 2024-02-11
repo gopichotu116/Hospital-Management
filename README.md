@@ -19,6 +19,13 @@ The Hospital Management System is a comprehensive solution designed to streamlin
 - **Database**: MySQL
 - **Version Control**: Git, GitHub
 
+## Screenshots
+![Home Page](HomePage.png)
+![Home Page](Homepage2.jpg)
+![Home Page](add_doctor.png)
+
+
+
 ## Usage
 - Access the application from the provided URL or run it locally on your machine.
 - Register as a new user (patient, doctor, or staff) or log in if you already have an account.
