@@ -22,7 +22,19 @@ The Hospital Management System is a comprehensive solution designed to streamlin
 ## Screenshots
 ![Home Page](HomePage.png)
 ![Home Page](Homepage2.jpg)
-![Home Page](add_doctor.png)
+![](add_doctor.png)
+![](admin_dashboard.png)
+![](admin_login.png)
+![](appointment.png)
+![](doctor_dashboard.png)
+![](doctor_edit_profile.png)
+![](doctors_list.png)
+![](doctors.png)
+![](edit_user.png)
+![](patient_details.png)
+![](user_appointment.png)
+![](user_login.png)
+
 
 
 
